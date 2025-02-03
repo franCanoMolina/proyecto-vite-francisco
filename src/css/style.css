@@ -12,3 +12,8 @@ a{
 h1{
   text-align: center;
 }
+input{
+  width: 100px;
+  height: 25px;
+  margin: auto;
+}
