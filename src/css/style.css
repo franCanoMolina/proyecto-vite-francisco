@@ -1,0 +1,19 @@
+nav{
+  text-align: center;
+  background-color: #333;
+  margin: 30px;
+  padding: 20px;
+}
+a{
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
+h1{
+  text-align: center;
+}
+input{
+  width: 100px;
+  height: 25px;
+  margin: auto;
+}
